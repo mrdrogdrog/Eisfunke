@@ -1,0 +1,24 @@
+{
+  "name": "eisfunke",
+  "version": "1.0.0",
+  "description": "Eisfunke is a collaborative, new, fresh, rapid, innovative, easy JavaScript Framework!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrdrogdrog/Eisfunke.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "eisfunke"
+  ],
+  "author": "Tilman Vatteroth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrdrogdrog/Eisfunke/issues"
+  },
+  "homepage": "https://github.com/mrdrogdrog/Eisfunke#readme"
+}
